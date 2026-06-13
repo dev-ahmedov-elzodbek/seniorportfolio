@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Elzodbek Amedov',
+  name: 'Elzodbek Ahmedov',
   role: 'Frontend Developer',
   tagline: 'I build fast, accessible, and user-friendly web applications with Vue.js and React.',
   bio:
